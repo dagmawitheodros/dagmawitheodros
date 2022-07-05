@@ -21,7 +21,7 @@
 ## 🌈 Github Stats:
 
 <a href="https://github.com/dagmawitheodros/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EYOELTEKLE&count_private=true&show_icons=true&theme=jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dagmawitheodros&count_private=true&show_icons=true&theme=jolly" />
 </a>
 
 <a href="https://github.com/dagmawitheodros/github-readme-stats">
